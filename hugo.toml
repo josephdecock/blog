@@ -2,4 +2,8 @@ baseURL = 'https://jmdc.dev/'
 languageCode = 'en-us'
 title = "Joe DeCock's Blog"
 theme = "hugo-bearcub"
+copyright = "Joe DeCock (CC BY 4.0)"
+enableRobotsTXT = true
 
+[params]
+madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
