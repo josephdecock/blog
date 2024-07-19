@@ -1,0 +1,15 @@
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Blog",
+            "request": "launch",
+            "type": "f5anything",
+            "command": "hugo server --port 1314 --navigateToChanged",
+        }
+    ]
+}
