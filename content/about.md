@@ -18,6 +18,8 @@ I'm also a maintainer for a number of open source libraries, including
 - [Duende.AccessTokenManagement](https://github.com/DuendeSoftware/Duende.AccessTokenManagement/), a token management library for .NET.
 
 ## Contact
-I guess I'm still on Twitter because network effects are hard to overcome, but ... yeah. Follow me, I guess, @jmdc.
+I'm on mastadon at https://indieweb.social/@jmdc. You can also contact me at josephdecock@gmail.com.
 
-You can also contact me at josephdecock@gmail.com.
+I'm also still on Twitter because network effects are hard to overcome, but ... yeah. Follow me, I guess, [@jmdc](https://x.com/jmdc).
+
+
