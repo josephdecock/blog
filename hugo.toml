@@ -1,12 +1,23 @@
 baseURL = 'https://jmdc.dev/'
 languageCode = 'en-us'
-title = "Joe DeCock's Blog"
-theme = "hugo-bearcub"
+title = "Joe DeCock"
+theme = "beautifulhugo"
 copyright = "Joe DeCock (CC BY 4.0)"
 enableRobotsTXT = true
 
 [params]
-madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+selfHosted = true
+hideAuthor = true 
+homeTitle = "Hi, I'm Joe"
+subtitle = "I'm a .NET security and identity guy"
+
+[params.author]
+name = "Joe DeCock"
+website = "yourwebsite.com"
+email = "joe@jmdc.dev"
+github = "josephdecock"
+twitter = "jmdc"
+mastodon = "https://indieweb.social/@jmdc"
 
 [taxonomies]
 series = 'series'

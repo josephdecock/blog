@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-Hello! This is the blog of Joe DeCock. I'm into security, Identity, OAuth, OIDC, IdentityServer, etc. 
 
-This blog is still just getting started.
+I help build [Duende.IdentityServer](https://github.com/DuendeSoftware/IdentityServer/), speak at conferences about security and identity, and train other developers about OAuth and OpenId Connect.
+
 
