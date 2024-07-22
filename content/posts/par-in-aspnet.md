@@ -3,6 +3,7 @@ title = 'Support for PAR in ASP.NET Core 9.0'
 date = 2024-07-19
 draft = false
 series = ['par']
+aliases = ['par-in-asspnet']
 +++
 
 I'm really excited to share that ASP.NET Core 9.0 will include support for
