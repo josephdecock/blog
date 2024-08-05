@@ -72,7 +72,7 @@ If you set the option to Require, that's you telling the handler that you must
 have PAR and if the OP doesn't support it you want the attempt to fail. And if
 you set the option to Disable, it does exactly what it says on the tin.
 
-Again, a huge thank you to everyone. Tune in next week for a deep dive on the
+Again, a huge thank you to everyone. Tune in next time for a deep dive on the
 customization hooks that allow you to write custom code to
 - Tweak parameters before they are pushed
 - Control the client authentication process at the PAR endpoint (for example, set a client assertion)
