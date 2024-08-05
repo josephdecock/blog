@@ -10,6 +10,7 @@ selfHosted = true
 hideAuthor = true 
 homeTitle = "Hi, I'm Joe"
 subtitle = "I'm a .NET security and identity guy"
+rss = true
 
 [params.author]
 name = "Joe DeCock"
