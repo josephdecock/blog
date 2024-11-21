@@ -13,8 +13,8 @@ In my work with Duende, I've had the opportunity to implement Pushed Authorizati
 
 ## Open Source
 I'm a maintainer for a number of open source libraries, including
-- [IdentityModel](https://github.com/IdentityModel/IdentityModel), a .NET library for claims-based identity, OAuth 2.0 and OpenID Connect.
-- [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient), a .NET library for using OIDC in native apps (mobile and desktop)
+- [Duende.IdentityModel](https://github.com/DuendeSoftware/foss/tree/main/identity-model), a .NET library for claims-based identity, OAuth 2.0 and OpenID Connect.
+- [Duende.IdentityModel.OidcClient](https://github.com/DuendeSoftware/foss/tree/main/identity-model-oidc-client), a .NET library for using OIDC in native apps (mobile and desktop)
 - [Duende.AccessTokenManagement](https://github.com/DuendeSoftware/Duende.AccessTokenManagement/), a token management library for .NET.
 
 I also contributed PAR support to ASP.NET Core.
