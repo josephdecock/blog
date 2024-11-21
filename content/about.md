@@ -20,8 +20,4 @@ I'm a maintainer for a number of open source libraries, including
 I also contributed PAR support to ASP.NET Core.
 
 ## Contact
-I'm on mastadon at https://indieweb.social/@jmdc. You can also contact me at joe@jmdc.dev.
-
-I'm also still on Twitter because network effects are hard to overcome, but ... yeah. Follow me, I guess, [@jmdc](https://x.com/jmdc).
-
-
+I'm on [bluesky](https://bsky.app/profile/jmdc.dev) and [mastodon](https://indieweb.social/@jmdc). You can also contact me at joe@jmdc.dev.

@@ -17,8 +17,9 @@ name = "Joe DeCock"
 website = "yourwebsite.com"
 email = "joe@jmdc.dev"
 github = "josephdecock"
-twitter = "jmdc"
+bluesky = "jmdc.dev"
 mastodon = "https://indieweb.social/@jmdc"
+
 
 [taxonomies]
 series = 'series'
